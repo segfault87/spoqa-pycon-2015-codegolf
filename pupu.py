@@ -1,1 +1,1 @@
-for i in range(0,3360,80):print(''.join([[' ','*'][x%2]*(ord(y)-48)for x,y in enumerate('c7x:u;t=s=43l<1;hIhIX88IU::FS=;ES=:DOH472:MVWXV\S^Q`OaNcMdK=3?3CK:3429242AKeLdLdLdJhGkDW2DB@6;7FAoAoAoAoBmDkFjGhIeN`TWI')])[i:i+80])
+for i in range(42):print(''.join([[' ','*'][x%2]*(ord(y)-48)for x,y in enumerate('c7x:u;t=s=43l<1;hIhIX88IU::FS=;ES=:DOH472:MVWXV\S^Q`OaNcMdK=3?3CK:3429242AKeLdLdLdJhGkDW2DB@6;7FAoAoAoAoBmDkFjGhIeN`TWI')])[i*80:i*80+80])
